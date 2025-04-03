@@ -1,7 +1,7 @@
-repository-name
-# Repository Name
+fedora-coreos
+# Fedora CoreOS
 
-> Slugline
+> The container optimized OS
 
 - [DNS](./DNS.md)
 - [Documentation](./DOCUMENTATION.md)
@@ -17,7 +17,7 @@ repository-name
 
 **Executive Summary**
 
-Text
+A minimal OS with automatic updates. Scalable and secure.
 
 Generated with [Rytr](https://app.rytr.me)
 
